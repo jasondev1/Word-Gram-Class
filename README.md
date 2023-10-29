@@ -2,7 +2,7 @@
 by Jason Espinoza
 
 ## About
-This java app will generate a paragraph of realistic sounding text of X length, using random word generation. The random words are collected by reviewing a file, and words with their following word, in a HashMap. The program randomly gets words from the HashMap to create realistic, unique content. 
+This java app will generate a paragraph of realistic sounding text of X length, using random word generation. The random words are collected by reviewing a file, and add words with their following word, in a HashMap. The program randomly gets words from the HashMap to create realistic, unique content. 
 
 ## How to use this app
 1. Download BlueJay to run the Java app
